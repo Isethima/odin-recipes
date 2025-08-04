@@ -1,0 +1,26 @@
+.title{
+    font-size:40px;
+    display:block;
+    margin-left:50px;
+    margin-top:50px;
+}
+
+.image{
+    display:block;
+margin-left: 500px;
+margin-right: 500px;
+}
+
+.description{
+margin-left:auto;
+}
+
+.ingredients{
+margin-left:auto;
+}
+
+.directions{
+margin-left:auto;
+}
+
+
